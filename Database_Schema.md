@@ -43,5 +43,6 @@ This document outlines the structure of the database used in the Healthcare Appo
 - **Departments** can have multiple **Doctors** (one-to-many relationship).
 - **Patients** can provide multiple **Feedback** entries, each linked to a specific **Doctor** (one-to-many relationship).
 
-## Diagram
-![Database Schema]([images/database_schema.png](https://drawsql.app/teams/tcs-37/diagrams/hams))
+## Database Schema Diagram
+You can view the database schema diagram using the following link:
+[HAMS Schema Diagram](https://drawsql.app/teams/tcs-37/diagrams/hams)
